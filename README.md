@@ -5,7 +5,7 @@ YouTube Revanced, YT Music Revanced and Photos Revanced Builds
 
 Patches are small modifications to Android apps that allow you to change the behavior of or add new features, block ads, customize the appearance, and much more.
 
-Get the [latest YouTube/ Photos release](https://github.com/mandyoquinha-hash/Revanced-Builds/releases/tag/20260273).
+Get the Llatest Release](https://github.com/mandyoquinha-hash/Revanced-Builds/releases/tag/20260273).
 
 ## If you are having trouble with the classic mount method of the modules
 such as,
